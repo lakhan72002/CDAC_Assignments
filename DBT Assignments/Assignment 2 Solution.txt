@@ -1,0 +1,20 @@
+1) Which field of the Customers table is the primary key?
+
+ans - Cnum
+
+2) What is the 4th column of the Customers table?
+
+ans - Rating
+
+3)What is another word for row? For column?
+
+ans - row is also called record, tuple, instance
+      column is also called filed, attribute, data field
+
+ 
+4) Why isn’t it possible to see the first five rows of a table?
+
+ans - this is due to relational model principle that tables are unordered sets of rows.
+As tables are unordered and rows are treated as set of tuples. Rows are not stored in a fixed sequence. Rows can be stored in any order, on the bases of indexing, storage methods or query execution. Therefore, the database cannot define what first actually means.
+
+Because of this unpredictability, the concept of first five rows is not meaningful unless an order is defined.

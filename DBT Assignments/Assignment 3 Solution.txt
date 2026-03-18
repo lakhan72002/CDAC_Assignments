@@ -1,0 +1,10 @@
+1) Does ANSI recognize the data type DATE?
+
+Ans - ANSI (American National Standards Institute) recognized data type of date is - YYYY-MM-DD. For example 17th of march 2026 would be 2026-03-17.
+
+
+
+
+2) Which subdivision of SQL is used to insert values in tables?
+
+Ans - DML (Data Manipulation Language) is used to manipulate and insert the data using 'insert' Command. 
